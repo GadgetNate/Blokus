@@ -1,2 +1,2 @@
-# blokus
+# Blokus
 Blokus AI Engine
